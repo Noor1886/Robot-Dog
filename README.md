@@ -1,5 +1,5 @@
 
-# ENPM 662 - Project1
+# Robot Dog
 
 Modeling and Dynamic Control of a Quadrupled
 
