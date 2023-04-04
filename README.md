@@ -9,6 +9,11 @@ Modeling and Dynamic Control of a Quadrupled
 - [@usnikchawla, @abdulmohammed]
 
 
+## Raw CAD diagram before adding controllers and sensors
+![raw_robot_dog](https://user-images.githubusercontent.com/102131442/229674543-392f3fad-e2f4-4278-9679-84f279173456.png)
+
+
+
 
 ## Dependencies to run the codes
 
